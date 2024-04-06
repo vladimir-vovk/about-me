@@ -6,7 +6,7 @@
   "bin": "./index.js",
   "keywords": [
     "vladimir-vovk",
-    "about",
+    "about"
   ],
   "author": "Vladimir Vovk",
   "license": "MIT",
