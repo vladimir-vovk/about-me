@@ -4,11 +4,22 @@
   "module": "index.ts",
   "type": "module",
   "bin": "./index.js",
+  "keywords": [
+    "vladimir-vovk",
+    "about",
+  ],
+  "author": "Vladimir Vovk",
+  "license": "MIT",
+  "homepage": "https://github.com/vladimir-vovk/about-me",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimir-vovk/about-me.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vladimir-vovk/about-me/issues"
+  },
   "devDependencies": {
     "@types/bun": "latest"
-  },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
   },
   "dependencies": {
     "chalk": "^5.3.0"
