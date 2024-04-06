@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "module": "index.ts",
   "type": "module",
-  "bin": "./index.js",
+  "bin": {
+    "about-me": "./index.js"
+  },
   "keywords": [
     "vladimir-vovk",
     "about"
