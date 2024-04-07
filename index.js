@@ -104,6 +104,12 @@ const c = chalk.cyan
 
 const title = 'Vladimir Vovk - Software Engineer'
 const text = `
+Hello world! 👋
+
+I am passionate about the web and mobile technologies,
+React Native, React, building beautiful user experiences,
+and making the world a better place. 🤓
+
 ${b('Social links')}
 
 GitHub    ${c('https://github.com/vladimir-vovk')}
@@ -126,6 +132,8 @@ Cats Word Game  ${c('https://cats-word-game.vovk.in/')}
 Fox-pet Game    ${c('https://vpet.vovk.in/')}
 RN Collapsible  ${c('https://github.com/vladimir-vovk/collapsible')}
 RN Toast        ${c('https://github.com/vladimir-vovk/react-native-toast')}
+
+Find more on the GitHub... 😻
 `
 
 drawCard({ title, text })
