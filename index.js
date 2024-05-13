@@ -117,6 +117,7 @@ LinkedIn  ${c('https://linkedin.com/in/vvovk')}
 Twitter   ${c('https://twitter.com/vladimir_vovk')}
 Telegram  ${c('https://t.me/vovk_vladimir')}
 
+Web-page  ${c('https://vladimir.vovk.in')}
 Blog      ${c('https://dev.to/vladimirvovk')}
 
 ─▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄         ──────▄▀▄─────▄▀▄
