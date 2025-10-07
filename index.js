@@ -108,17 +108,17 @@ Hello world! 👋
 
 I am passionate about the web and mobile technologies,
 React Native, React, building beautiful user experiences,
-and making the world a better place. 🤓
+and making the world a better place.
 
 ${b('Social links')}
 
 GitHub    ${c('https://github.com/vladimir-vovk')}
 LinkedIn  ${c('https://linkedin.com/in/vvovk')}
-Twitter   ${c('https://twitter.com/vladimir_vovk')}
 Telegram  ${c('https://t.me/vovk_vladimir')}
 
 Web-page  ${c('https://vladimir.vovk.in')}
 Blog      ${c('https://dev.to/vladimirvovk')}
+Npm       ${c('https://www.npmjs.com/~vladimir-vovk')}
 
 ─▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄         ──────▄▀▄─────▄▀▄
 █░░░█░░░░░░░░░░▄▄░██░█        ─────▄█░░▀▀▀▀▀░░█▄
